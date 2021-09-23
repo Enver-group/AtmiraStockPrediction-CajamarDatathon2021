@@ -1,6 +1,6 @@
 # AtmiraStockPrediction-CajamarDatathon2021
 
-Code and Python notebooks used for Cajamar's UniversityHack Datathon 2021 where we participated in the Atmira Stock Prediction challenge 
+Code and Python notebooks used for [Cajamar's UniversityHack Datathon 2021](https://www.cajamardatalab.com/datathon-cajamar-universityhack-2021/) where we participated in the Atmira Stock Prediction challenge. 
 
 Content
 ==========
